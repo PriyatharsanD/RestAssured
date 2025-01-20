@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 12,
+    "name": "Shimba"
+  },
+  "name": "Cat",
+  "photoUrls": [
+    "www.google.com/cat"
+  ],
+  "tags": [
+    {
+      "id": 12,
+      "name": "White"
+    }
+  ],
+  "status": "available"
+}

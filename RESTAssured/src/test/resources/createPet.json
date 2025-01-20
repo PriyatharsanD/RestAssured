@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 12,
+    "name": "Sheero"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "http://www.google.com/pet"
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Brown"
+    }
+  ],
+  "status": "available"
+}

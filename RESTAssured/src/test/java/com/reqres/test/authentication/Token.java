@@ -35,5 +35,4 @@ public class Token {
 			.get("https://www.shoppersstack.com/shopping/shoppers/{shopperId}/carts")
 		.then().log().all();
 	}
-
 }

@@ -18,5 +18,4 @@ public class UsingPOJO {
 		.when().post("https://reqres.in/api/users")
 		.then().log().all();
 	}
-
 }
